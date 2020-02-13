@@ -30,4 +30,4 @@ Olle Logdahl, 13 February 2020
 
 ## Licensing
 
-This project, and all code it contains, is licensed under *MIT Licence* and can be read [here](LICENCE).
+This project, and all code it contains, is licensed under *MIT License* and can be read [here](LICENSE).
