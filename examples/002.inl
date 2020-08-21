@@ -1,0 +1,7 @@
+new first() {
+
+}
+
+new second() {
+
+}
